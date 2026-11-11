@@ -1,5 +1,0 @@
-password = "Dhyanalinga@99"
-email = "sidharthkoul02@gmail.com"
-tv_search = "samsung 42 inch smart tv"
-actual_title = "Amazon.in"
-expected_title = "Amazon.in"
